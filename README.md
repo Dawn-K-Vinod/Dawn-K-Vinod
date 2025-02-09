@@ -7,6 +7,10 @@
 <br>➗ Math Lover
 <br>♟️ Chess Player
 <br><br>🌟 <b>Let’s connect and collaborate on anything exciting in the tech world!</b>
+<br><br><b>LinkedIn</b>
+<br>[<img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" width="25" height="25"> ](https://www.linkedin.com/in/dawn-vinod-a30550332/)
+
+---
 
 
 # 💻 Tech Stack:
