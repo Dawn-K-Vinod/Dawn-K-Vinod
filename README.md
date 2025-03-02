@@ -25,8 +25,6 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=Dawn-K-Vinod&color=blue)
 <!-- END PROFILE VIEWS COUNTER -->
 
-![Profile Views](https://raw.githubusercontent.com/Dawn-K-Vinod/Dawn-K-Vinod/main/view-count.json)
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Dawn-K-Vinod/Dawn-K-Vinod/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Dawn-K-Vinod/Dawn-K-Vinod/output/github-snake.svg" />
