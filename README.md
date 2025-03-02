@@ -25,7 +25,7 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=Dawn-K-Vinod&color=blue)
 <!-- END PROFILE VIEWS COUNTER -->
 
-![Profile Views](https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_REPO_NAME/main/view-count.json)
+![Profile Views](https://raw.githubusercontent.com/Dawn-K-Vinod/Dawn-K-Vinod/main/view-count.json)
 
 <!-- Display the count ***************************************************************************************-->
 
