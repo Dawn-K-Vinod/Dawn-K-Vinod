@@ -30,7 +30,7 @@
 <!-- Display the count ***************************************************************************************-->
 
 <!-- Display Profile Views -->
-![Profile Views](https://img.shields.io/badge/Profile%20Views-0-blue)
+![Profile Views](![Profile Views](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/Dawn-K-Vinod/Dawn-K-Vinod/main/view-count.json))
 
 <!-- Fetch the actual count from view-count.json -->
 <p align="center">
@@ -39,7 +39,7 @@
 
 <!-- Use a static link to the JSON file -->
 <p align="center">
-  <a href="https://github.com/YOUR_GITHUB_USERNAME/YOUR_REPO_NAME/blob/main/view-count.json">
+  <a href="https://github.com/Dawn-K-Vinod/Dawn-K-Vinod/blob/main/view-count.json">
     View Count Details
   </a>
 </p>
