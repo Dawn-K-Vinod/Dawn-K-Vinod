@@ -1,0 +1,33 @@
+name: Increment Profile Views
+
+on:
+  push:
+    branches:
+      - main # Trigger on pushes to the main branch
+  schedule:
+    - cron: '0 * * * *' # Run every hour to prevent abuse
+
+jobs:
+  increment-views:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v3
+
+      - name: Increment View Count
+        run: |
+          # Read the current view count
+          VIEW_COUNT=$(jq '.views' view-count.json)
+          NEW_VIEW_COUNT=$((VIEW_COUNT + 1))
+
+          # Update the view count in the JSON file
+          jq --argjson new_count $NEW_VIEW_COUNT '.views = $new_count' view-count.json > temp.json && mv temp.json view-count.json
+
+      - name: Commit and Push Changes
+        run: |
+          git config --global user.name "GitHub Actions"
+          git config --global user.email "actions@github.com"
+          git add view-count.json
+          git commit -m "Increment profile view count to $(jq '.views' view-count.json)"
+          git push
