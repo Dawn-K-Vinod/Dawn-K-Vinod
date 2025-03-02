@@ -25,6 +25,22 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=Dawn-K-Vinod&color=blue)
 <!-- END PROFILE VIEWS COUNTER -->
 
+![Profile Views](https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_REPO_NAME/main/view-count.json)
+
+<!-- Display the count ***************************************************************************************-->
+<p align="center">
+  <b>Profile Views:</b> <code id="view-count">Loading...</code>
+</p>
+
+<script>
+  fetch('https://raw.githubusercontent.com/Dawn-K-Vinod/Dawn-K-Vinod/main/view-count.json')
+    .then(response => response.json())
+    .then(data => {
+      document.getElementById('view-count').textContent = data.views;
+    });
+</script>
+<!--*********************************************************************************************************-->
+
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
