@@ -28,17 +28,22 @@
 ![Profile Views](https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_REPO_NAME/main/view-count.json)
 
 <!-- Display the count ***************************************************************************************-->
+
+<!-- Display Profile Views -->
+![Profile Views](https://img.shields.io/badge/Profile%20Views-0-blue)
+
+<!-- Fetch the actual count from view-count.json -->
 <p align="center">
   <b>Profile Views:</b> <code id="view-count">Loading...</code>
 </p>
 
-<script>
-  fetch('https://raw.githubusercontent.com/Dawn-K-Vinod/Dawn-K-Vinod/main/view-count.json')
-    .then(response => response.json())
-    .then(data => {
-      document.getElementById('view-count').textContent = data.views;
-    });
-</script>
+<!-- Use a static link to the JSON file -->
+<p align="center">
+  <a href="https://github.com/YOUR_GITHUB_USERNAME/YOUR_REPO_NAME/blob/main/view-count.json">
+    View Count Details
+  </a>
+</p>
+
 <!--*********************************************************************************************************-->
 
 ### ✍️ Random Dev Quote
