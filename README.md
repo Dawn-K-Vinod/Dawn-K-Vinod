@@ -80,10 +80,15 @@
 
 <br>
 
-
+[![trophy](https://github-profile-trophy.vercel.app/?username=kittinan&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 <br>
 
+&nbsp;<div align="center">
+  [![Spotify](https://novatorem.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff)](https://open.spotify.com/user/ihype02kufjv10bqxo2ljhd37)
+</div>
+
+<br>
 
 
 ## 🪐 Cosmic Artifacts
@@ -107,3 +112,5 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Dawn-K-Vinod&label=Stellar+Visitors&color=7F5AB6&style=flat" alt="Visitor Counter">
 </p>
+
+<img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" alt="Github Stats" />
