@@ -60,6 +60,32 @@
 
 ---
 
+![Custom Card](https://github-readme-stats.vercel.app/api?username=Dawn-K-Vinod&theme=merko&show_icons=true&hide=contribs&count_private=true&include_all_commits=true&line_height=24)
+
+<br>
+
+![Stats](https://github-readme-stats.vercel.app/api?username=Dawn-K-Vinod&show_icons=true&theme=radical)
+
+<br>
+
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
+
+<br>
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Dawn-K-Vinod&theme=github)
+
+<br>
+
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=54A2FF&lines=Hello+World!;Welcome+to+my+profile!)
+
+<br>
+
+
+
+<br>
+
+
+
 ## 🪐 Cosmic Artifacts
 
 <div align="center">
