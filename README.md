@@ -21,6 +21,7 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Dawn-K-Vinod&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Dawn-K-Vinod&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
+<img src="https://github.com/Dawn-K-Vinod/Dawn-K-Vinod/blob/main/10_void_animated.gif" width="1000"/>
 <!-- ![Profile Views](https://komarev.com/ghpvc/?username=Dawn-K-Vinod&color=blue) -->
 
 ### ✍️ Random Dev Quote
