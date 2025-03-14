@@ -21,8 +21,6 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Dawn-K-Vinod&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Dawn-K-Vinod&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Dawn-K-Vinod&theme=react-dark&hide_border=true&area=true)
-
 <img src="https://github.com/Dawn-K-Vinod/Dawn-K-Vinod/blob/main/10_void_animated.gif" width="770"/>
 <!-- ![Profile Views](https://komarev.com/ghpvc/?username=Dawn-K-Vinod&color=blue) -->
 
