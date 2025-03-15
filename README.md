@@ -47,7 +47,7 @@
 ---
 
 ## 🌠 GitHub Constellation
-[![GitHub Streak](https://streak-stats.demolab.com?user=Dawn-K-Vinod&theme=midnight-purple)](https://git.io/streak-stats)
+<img alt="TYP Github Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Dawn-K-Vinod&show_icons=true&count_private=true&theme=react&hide_border=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=0D1117" width = "100%"/>
 
 <div align="center">
 
