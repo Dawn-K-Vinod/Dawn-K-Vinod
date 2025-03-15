@@ -47,6 +47,7 @@
 ---
 
 ## 🌠 GitHub Constellation
+[![GitHub Streak](https://streak-stats.demolab.com?user=Dawn-K-Vinod&theme=midnight-purple)](https://git.io/streak-stats)
 
 <div align="center">
 
