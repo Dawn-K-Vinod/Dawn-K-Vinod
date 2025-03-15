@@ -1,3 +1,5 @@
+<img src="https://github.com/Dawn-K-Vinod/Dawn-K-Vinod/blob/freak/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="1000"/>
+
 # 💫 About Me:
 👋 Hi there!
 <br>I'm currently pursuing my B.Tech degree in Computer Science and Engineering at SJCET, Palai.
@@ -22,6 +24,7 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Dawn-K-Vinod&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 <img src="https://github.com/Dawn-K-Vinod/Dawn-K-Vinod/blob/freak/10_void_animated.gif" width="770"/>
+
 <!-- ![Profile Views](https://komarev.com/ghpvc/?username=Dawn-K-Vinod&color=blue) -->
 
 ### ✍️ Random Dev Quote
