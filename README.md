@@ -1,5 +1,3 @@
-<img src="https://github.com/Dawn-K-Vinod/Dawn-K-Vinod/blob/freak/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="1000"/>
-
 # 💫 About Me:
 👋 Hi there!
 <br>I'm currently pursuing my B.Tech degree in Computer Science and Engineering at SJCET, Palai.
