@@ -28,7 +28,6 @@
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
----
-[![](https://visitcount.itsvg.in/api?id=Dawn-K-Vinod&icon=3&color=1)](https://visitcount.itsvg.in)
+<img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" alt="Waves" />
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
