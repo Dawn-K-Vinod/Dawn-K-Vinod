@@ -17,9 +17,9 @@
 [![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)](https://en.wikipedia.org/wiki/Python_(programming_language)) 
 [![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)](https://en.wikipedia.org/wiki/MySQL)
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Dawn-K-Vinod&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-stats.vercel.app/api?username=Dawn-K-Vinod&theme=midnight-purple&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Dawn-K-Vinod&theme=midnight-purple&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Dawn-K-Vinod&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Dawn-K-Vinod&theme=midnight-purple&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 <img src="https://github.com/Dawn-K-Vinod/Dawn-K-Vinod/blob/freak/10_void_animated.gif" width="770"/>
 
