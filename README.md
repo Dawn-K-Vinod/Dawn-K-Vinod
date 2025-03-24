@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/Dawn-K-Vinod/Dawn-K-Vinod/blob/freak/glitch.gif" width="100">
+  <img src="https://github.com/Dawn-K-Vinod/Dawn-K-Vinod/blob/freak/glitch.gif" width="50">
   <img src="https://readme-typing-svg.demolab.com?font=Tektur&size=30&duration=5000&pause=1000&color=7F5AB6&center=true&vCenter=true&width=1000&lines=👋+HELLO+THERE!;Welcome+to+my+GitHub+account!;" alt="Typing SVG" />
 </p>
 
