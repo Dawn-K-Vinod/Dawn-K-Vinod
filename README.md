@@ -4,7 +4,9 @@
 <br>💻 I’m a tech enthusiast who’s always curious about exploring and diving into everything tech-related.
 <br>📚 Lifelong Learner: If there's a way to learn something and time to do it, count me in!
 
-<br><br>🌟 <b>Let’s connect and collaborate on anything exciting in the tech world!</b>
+<img src="https://github.com/Dawn-K-Vinod/Dawn-K-Vinod/blob/freak/typing_img.png" alt="typing_image" width="500">
+
+🌟 <b>Let’s connect and collaborate on anything exciting in the tech world!</b>
 <br><br><b>LinkedIn</b>
 <br>[<img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" width="25" height="25"> ](https://www.linkedin.com/in/dawn-vinod-a30550332/)
 
