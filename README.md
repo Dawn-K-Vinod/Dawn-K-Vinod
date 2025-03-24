@@ -7,9 +7,11 @@
 <img src="https://github.com/Dawn-K-Vinod/Dawn-K-Vinod/blob/freak/typing_img.png" alt="typing_image" width="400">
 
 🌟 <b>Let’s connect and collaborate on anything exciting in the tech world!</b>
-<br><br><b>LinkedIn</b>
-<br>[<img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" width="25" height="25"> ](https://www.linkedin.com/in/dawn-vinod-a30550332/)
-
+<br><br>
+<a href="https://www.linkedin.com/in/dawn-vinod-a30550332/">
+    <img src="https://custom-icon-badges.demolab.com/badge/-Connect%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+<br>
 <img src="https://64.media.tumblr.com/005e37a86478a9c92da7d4d3d7464b40/2bd29f0062317531-b1/s400x600/c7edc142895bc810339223dfddf2aa57ced0c32b.gif" width="1000"/>
 
 
