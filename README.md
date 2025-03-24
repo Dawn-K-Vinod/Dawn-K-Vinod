@@ -1,4 +1,4 @@
-# [🎵](https://github.com/Dawn-K-Vinod/Audio_files/blob/main/peace%20music.mp3) About Me:
+# About Me:
 👋 Hi there!
 <br>I'm currently pursuing my B.Tech degree in Computer Science and Engineering at SJCET, Palai.
 <br>💻 I’m a tech enthusiast who’s always curious about exploring and diving into everything tech-related.
