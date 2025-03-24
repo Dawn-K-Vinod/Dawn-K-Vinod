@@ -1,4 +1,9 @@
-# About Me:
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Tektur&size=30&duration=5000&pause=1000&color=7F5AB6&center=true&vCenter=true&width=1000&lines=👋+HELLO+THERE!;Welcome+to+my+GitHub+account;" alt="Typing SVG" />
+</p>
+
+---
+
 👋 Hi there!
 <br>I'm currently pursuing my B.Tech degree in Computer Science and Engineering at SJCET, Palai.
 <br>💻 I’m a tech enthusiast who’s always curious about exploring and diving into everything tech-related.
