@@ -31,3 +31,6 @@
 <img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" alt="Waves" />
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<audio autoplay>
+  <source src="https://github.com/Dawn-K-Vinod/Audio_files/blob/main/peace%20music.mp3" type="audio/mpeg">
+</audio>
