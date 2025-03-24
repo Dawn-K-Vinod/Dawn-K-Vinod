@@ -3,9 +3,7 @@
 <br>I'm currently pursuing my B.Tech degree in Computer Science and Engineering at SJCET, Palai.
 <br>💻 I’m a tech enthusiast who’s always curious about exploring and diving into everything tech-related.
 <br>📚 Lifelong Learner: If there's a way to learn something and time to do it, count me in!
-<br>🔭 Astrophile: I have a strong interest in space—stars, planets, galaxies, and the mesmerizing beauty of the universe. I’m especially fascinated by astrophysics and enjoy learning more about the cosmos.
-<br>➗ Math Lover
-<br>♟️ Chess Player
+
 <br><br>🌟 <b>Let’s connect and collaborate on anything exciting in the tech world!</b>
 <br><br><b>LinkedIn</b>
 <br>[<img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" width="25" height="25"> ](https://www.linkedin.com/in/dawn-vinod-a30550332/)
