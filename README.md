@@ -11,8 +11,8 @@
 
 <img src="https://github.com/Dawn-K-Vinod/Dawn-K-Vinod/blob/freak/typing_img.png" alt="typing_image" width="400">
 
-🌟 <b>Let’s connect and collaborate on anything exciting in the tech world!</b>
-<br><br>
+<h4>🌟 <b>Let’s connect and collaborate on anything exciting in the tech world!</b></h4>
+
 <a href="https://www.linkedin.com/in/dawn-vinod-a30550332/">
     <img src="https://custom-icon-badges.demolab.com/badge/-Connect%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
