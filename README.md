@@ -1,4 +1,4 @@
-# 💫 About Me:
+# [🎵](https://github.com/Dawn-K-Vinod/Audio_files/blob/main/peace%20music.mp3) About Me:
 👋 Hi there!
 <br>I'm currently pursuing my B.Tech degree in Computer Science and Engineering at SJCET, Palai.
 <br>💻 I’m a tech enthusiast who’s always curious about exploring and diving into everything tech-related.
@@ -31,6 +31,3 @@
 <img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" alt="Waves" />
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-<audio autoplay>
-  <source src="https://github.com/Dawn-K-Vinod/Audio_files/blob/main/peace%20music.mp3" type="audio/mpeg">
-</audio>
