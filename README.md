@@ -9,7 +9,7 @@
 <h4>💻 I’m a tech enthusiast who’s always curious about exploring and diving into everything tech-related.</h4>
 <h4>📚 Lifelong Learner: If there's a way to learn something and time to do it, count me in!</h4>
 
-<img src="https://github.com/Dawn-K-Vinod/Dawn-K-Vinod/blob/freak/typing_img.png" alt="typing_image" width="300">
+<!--<img src="https://github.com/Dawn-K-Vinod/Dawn-K-Vinod/blob/freak/typing_img.png" alt="typing_image" width="300">-->
 
 <h4>🌟 <b>Let’s connect and collaborate on anything exciting in the tech world!</b></h4>
 
@@ -22,7 +22,11 @@
 
 # 💻 Tech Stack:
 [![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)](https://en.wikipedia.org/wiki/Python_(programming_language)) 
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
+![GithubPages](https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white)
 [![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)](https://en.wikipedia.org/wiki/MySQL)
+
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Dawn-K-Vinod&theme=midnight-purple&hide_border=true&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Dawn-K-Vinod&theme=midnight-purple&hide_border=true)<br/>
