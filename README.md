@@ -1,4 +1,4 @@
-# 🌌 Cosmic Coder | Dawn K Vinod
+# 🌌 Cosmic Coder
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=26&duration=4000&pause=1000&color=7F5AB6&center=true&vCenter=true&width=500&lines=🚀+Code+to+the+Stars!;🌠+Space+Enthusiast+%26+Tech+Explorer;♟️+Chess+Strategist+%7C+➗+Math+Alchemist;💻+Full-Time+Innovator+%7C+🔭+Cosmic+Observer" alt="Typing SVG" />
@@ -24,7 +24,7 @@
 
 [![techstack logo](https://readme-components.vercel.app/api?component=logo&logo=java)](https://github.com/harish-sethuraman/readme-components)
 
-[![Button Component](https://readme-components.vercel.app/api?component=button&text=Back+to+top)](#-cosmic-coder-|-dawn-k-vinod)
+[![Button Component](https://readme-components.vercel.app/api?component=button&text=Back+to+top)](#-cosmic-coder)
 
 <div align="center">
 
