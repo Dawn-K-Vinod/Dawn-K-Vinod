@@ -24,6 +24,8 @@
 
 [![techstack logo](https://readme-components.vercel.app/api?component=logo&logo=java)](https://github.com/harish-sethuraman/readme-components)
 
+[![Button Component](https://readme-components.vercel.app/api?component=button&text=Back+to+top)](#-cosmic-coder)
+
 <div align="center">
 
 | **Core Systems** | **Data Galaxies** | **Dev Tools** |
