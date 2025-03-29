@@ -22,6 +22,8 @@
 
 ## 🛠️ Tech Nebula
 
+[![techstack logo](https://readme-components.vercel.app/api?component=logo&logo=java)](https://github.com/harish-sethuraman/readme-components)
+
 <div align="center">
 
 | **Core Systems** | **Data Galaxies** | **Dev Tools** |
