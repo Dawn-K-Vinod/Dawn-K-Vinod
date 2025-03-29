@@ -1,6 +1,6 @@
 <p align="center">
   <img src="https://github.com/Dawn-K-Vinod/Dawn-K-Vinod/blob/freak/glitch.gif" width="100">
-  <img src="https://readme-typing-svg.demolab.com?font=Tektur&size=35&duration=2000&pause=1000&color=7F5AB6&center=true&vCenter=true&width=1000&lines=👋+HELLO+THERE!;Welcome+to+my+GitHub+account!;" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Cinzel&size=35&duration=2000&pause=1000&color=7F5AB6&center=true&vCenter=true&width=1000&lines=👋+HELLO+THERE!;Welcome+to+my+GitHub+account!;" alt="Typing SVG" />
 </p>
 
 <img src="https://64.media.tumblr.com/005e37a86478a9c92da7d4d3d7464b40/2bd29f0062317531-b1/s400x600/c7edc142895bc810339223dfddf2aa57ced0c32b.gif" width="1000"/>
