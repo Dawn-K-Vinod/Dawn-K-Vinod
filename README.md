@@ -136,3 +136,12 @@
 </p>
 
 <img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" alt="Github Stats" />
+
+<details>
+  <summary>Click Here</summary>
+  Hello World!
+  
+  ```py
+  print("Hello world")
+  ```
+</details>
