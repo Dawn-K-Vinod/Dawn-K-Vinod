@@ -1,4 +1,4 @@
-<img src="https://github.com/Dawn-K-Vinod/Dawn-K-Vinod/blob/freak/soldier.gif" >
+<img src="https://github.com/Dawn-K-Vinod/Dawn-K-Vinod/blob/freak/soldier.gif" width="300">
 <!--
 <p align="center">
   <img src="https://github.com/Dawn-K-Vinod/Dawn-K-Vinod/blob/freak/glitch.gif" width="100">
