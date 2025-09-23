@@ -1,8 +1,9 @@
-
+<!--
 <p align="center">
   <img src="https://github.com/Dawn-K-Vinod/Dawn-K-Vinod/blob/freak/glitch.gif" width="100">
-  <!-- <img src="https://readme-typing-svg.demolab.com?font=Arial&size=35&duration=2000&pause=1000&color=7F5AB6&center=true&vCenter=true&width=1000&lines=👋+HELLO+THERE!;Welcome+to+my+GitHub+Account!;" alt="Typing SVG" /> -->
+  <!-- <img src="https://readme-typing-svg.demolab.com?font=Arial&size=35&duration=2000&pause=1000&color=7F5AB6&center=true&vCenter=true&width=1000&lines=👋+HELLO+THERE!;Welcome+to+my+GitHub+Account!;" alt="Typing SVG" /> 
 </p>
+-->
 
 <div align="center">
 	<img src="https://github.com/Dawn-K-Vinod/Dawn-K-Vinod/blob/freak/welcome-header.gif" alt="welcome to my github profile">
