@@ -1,7 +1,5 @@
 [![An image of @dawnkvinod's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/dawnkvinod)](https://holopin.io/@dawnkvinod)
 
-[![An image of @dawnkvinod's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/dawnkvinod)](https://holopin.io/@dawnkvinod)
-
 # 🌌 Cosmic Coder
 
 <p align="center">
