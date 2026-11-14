@@ -13,11 +13,11 @@
 <img src="https://64.media.tumblr.com/005e37a86478a9c92da7d4d3d7464b40/2bd29f0062317531-b1/s400x600/c7edc142895bc810339223dfddf2aa57ced0c32b.gif" width="1000"/>
 -->
 
-<h4>Just a simple guy :)</h4>
-<h4> I like computers 💻</h4>
-<h4> Fast Learner</h4>
-<h4> Linux daily driver</h4>
-<h4>🎓 Currently pursuing my B.Tech degree in Computer Science and Engineering at SJCET, Palai.</h4>
+<h2>Just a simple guy</h2>
+<h4> + I like computers 💻</h4>
+<h4> + Fast Learner</h4>
+<h4> + Linux daily driver</h4>
+<h4> + Currently pursuing my B.Tech degree in Computer Science and Engineering at SJCET, Palai.</h4>
 
 <!--<img src="https://github.com/Dawn-K-Vinod/Dawn-K-Vinod/blob/freak/typing_img.png" alt="typing_image" width="300">-->
 
